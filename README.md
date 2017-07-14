@@ -1,6 +1,7 @@
 # python-waf-benchmark
 
 Benchmark for Python web application frameworks.
+Ref: [wsgi, Bottle, Flask の速度差](http://qiita.com/methane/items/bc5b5128bb45dd7627b9)
 
 ## Date
 Jul 14, 2017
